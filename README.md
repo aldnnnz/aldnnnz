@@ -9,8 +9,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aldnnnz)
 
 
-- 👨🏻‍💻 I am currently studying as an Informatics Student at Banyuwangi State Polytechnic.
-- 📝 I react to world developments by learning React.
+- 👨🏻‍💻 I am currently study as Informatics Student at State Polytechnic of Banyuwangi.
+- 📝 I react to how the world is evolving by learning about React.
 - 🌍 Based in East Java, Indonesia.
 - 📠 Currently focusing on studying backend development.
 - 🤝 Open to collaborate on any opportunity
