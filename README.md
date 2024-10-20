@@ -9,11 +9,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aldnnnz)
 
 
-- 👨🏻‍💻 I am currently study as Informatics Student at State Polytechnic of Banyuwangi.
-- 📝 I react to how the world is evolving by learning about React.
-- 🌍 Based in East Java, Indonesia.
-- 📠 Currently focusing on studying backend development.
-- 🤝 Open to collaborate on any opportunity
+👋 Welcome! I'm Aldyn, an aspiring Informatics student at the State Polytechnic of Banyuwangi, passionate about solving problems through technology. Here’s a bit about me:
+
+- 🌍 Location: Based in East Java, Indonesia.
+- 👨🏻‍💻 Focus: Currently honing my skills in Javascript and backend development.
+- 🧠 Lifelong Learner: Continuously exploring JavaScript to stay up-to-date with the evolving tech landscape.
+- 📬 Open to Collaboration: Excited to work on projects that push the boundaries of technology.
+
+Feel free to connect through the links above—let’s build something amazing together!
 
 
 
