@@ -3,7 +3,7 @@
 > “Code is like poetry — each line should tell a story.”
 
 🎓 Informatics student @ State Polytechnic of Banyuwangi   
-🛠 Focused on backend development and system architecture                   
+🛠 Focused on backend dev and system architecture                   
 🌍 East Java, Indonesia      
 📬 Let’s collaborate and build cool stuff together!            
 
